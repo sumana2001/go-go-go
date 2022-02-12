@@ -1,0 +1,6 @@
+Bill Breakdown: 
+rice:                     ...$7.99 
+pudding:                  ...$3.99 
+veg soup:                 ...$5.99 
+tip:                      ...$5
+total:                    ...$22.97
